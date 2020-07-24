@@ -3,5 +3,5 @@ name = "rust-http-10"
 version = "0.1.0"
 
 [dependencies]
-rocket = "0.3.6"
-rocket_codegen = "0.3.6"
+rocket = "0.4.5"
+rocket_codegen = "0.4.5"
