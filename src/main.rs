@@ -2,7 +2,6 @@
 #![plugin(rocket_codegen)]
 #[macro_use] extern crate rocket;
 
-extern crate rocket;
 
 use std::io;
 use std::path::{Path, PathBuf};
